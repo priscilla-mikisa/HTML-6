@@ -250,7 +250,93 @@ color: orange;
     margin-left:40%;
     margin-top: 5%;
 }
-
+.news{
+    margin-left: 40%;
+}
+.blog{
+    margin-left:40%;
+    margin-top: 5%;
+}
+.heroimageonly{
+    display: flex;
+    margin-left: 100px;
+    margin-top: 3%;
+}
+.heroimages1{
+    background-image: linear-gradient(rgba(0, 0, 0, 0.5), rgba(5, 5, 5, 0.5)), url("images/woman\ power.webp");
+    min-height: 800%;
+    width:20%;
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover;
+    position: relative;
+    color: aliceblue;
+    padding: 1%;
+    margin-top: 1%;
+    margin-right: 100px;
+    border-radius: 30px;
+}
+.heroimages2{
+    background-image: linear-gradient(rgba(0, 0, 0, 0.5), rgba(5, 5, 5, 0.5)), url("images/moving2.jpeg");
+    min-height: 800%;
+    width:20%;
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover;
+    position: relative;
+    color: aliceblue;
+    padding: 1%;
+    margin-top: 1%;
+    margin-right: 100px;
+    border-radius: 30px;
+    margin-left: 1%;
+}
+.heroimages3{
+    background-image: linear-gradient(rgba(0, 0, 0, 0.5), rgba(5, 5, 5, 0.5)), url("images/unpacking2.jpg");
+    min-height: 800%;
+    width:20%;
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover;
+    position: relative;
+    color: aliceblue;
+    padding: 1%;
+    margin-top: 1%;
+    margin-right: 100px;
+    border-radius: 30px;
+}
+.footer{
+    display:flex;
+    flex-direction: column;
+}
+.footer1{
+    display: flex;
+    flex-direction: row;
+    background-color: orange;
+    color: aliceblue;
+}
+.footer2{
+    display:flex;
+    flex-direction: row;
+}
+.twitter{
+    width:2%;
+}
+.facebook{
+    width:3%;
+}
+.linkedin{
+    width:2%;
+}
+.youtube{
+    width:2%;
+}
+.copyright{
+    width:2%;
+}
+.arrow{
+    width:2%
+}
 
 
 
