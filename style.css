@@ -227,13 +227,21 @@ color: orange;
 }
 .book{
     display: flex;
-    width:300%;
+    flex-direction: row;
+    width:700%;
+    width: 300%;
+    margin-right: 50%;
     min-height: 800%;
     margin-right: 20px;
 
 }
 .h24{
-    font-size: ;
+background-color: orange;
+color: aliceblue;
+margin-left:0.5%;
+border-radius: 20px;
+width: 10%;
+padding-left: 190px;
 }
 .quote{
     width:7%
@@ -314,8 +322,16 @@ color: orange;
     flex-direction: row;
     background-color: orange;
     color: aliceblue;
+    margin-top: 5%;
+    width: 200%;
+    height:200px;
+    padding-left: 400px;
+
 }
 .footer2{
+    background-color: black;
+    color: aliceblue;
+    gap:15%;
     display:flex;
     flex-direction: row;
 }
@@ -337,6 +353,31 @@ color: orange;
 .arrow{
     width:2%
 }
+
+.contact{
+    margin-left: 20%;
+}
+.button3{
+    width:10%;
+    margin-top: 0.5%;
+    margin-left: 1%;
+    height: 40%;
+}
+.form{
+    background-color: lightseagreen;
+color: aliceblue;
+width: 15.5%;
+border-radius: 20px;
+padding-left: 120px;
+}
+@media all and (max-width:480px){
+    body{
+
+    }
+}
+
+
+
 
 
 
