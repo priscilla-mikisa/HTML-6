@@ -1,0 +1,278 @@
+#container{
+    background-color: rgb(236, 231, 225);
+    margin-left: 1%;
+}
+#navbar{
+    display:flex;
+    gap:10%;
+    padding-left: 290px;
+    margin-bottom: 5%;
+    height: auto;
+}
+.top{
+    background-color: black;
+    color: aliceblue;
+    padding-left: 800px;
+
+}
+.imm1{
+    width:2%;
+    height: auto;
+    border-radius: 5px;
+}
+.prt1{
+    float:left;
+}
+.imm2{
+width:5%
+}
+.imm3{
+    width:10%;
+}
+.prt2{
+float:left;
+}
+.nav{
+    padding-left: 500px;
+    display:flex;
+    gap:5%
+}
+.p11{
+    color:orange;
+    padding-top: 15px;
+}
+.hero-image1{
+    background-image: linear-gradient(rgba(0, 0, 0, 0.5), rgba(5, 5, 5, 0.5)), url("images/moving1.jpg");
+    height: auto;
+    width:50%;
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover;
+    position: relative;
+    color: aliceblue;
+    padding: 20%;
+    margin: 3%;
+    border-radius: 30px;
+}
+.nested1{
+    width:15%
+}
+.h12{
+ font-size: 70px;   
+}
+.p12{
+    font-size:small;
+}
+.button1{
+    color:aliceblue;
+    background-color: orange;
+    width:80%;
+    height: 90px;
+    border-radius: 20px;
+}
+.body1{
+    display:flex;
+    flex-direction: row;
+    flex-wrap: nowrap;
+    padding-left: 100px;
+    width:85%;
+    justify-content: center;
+    gap:40%;
+    margin-top: 10%;
+}
+.imm4{
+    width:130%;
+}
+.h21{
+    color: orange;
+}
+.h13{
+    font-size: 300%;
+}
+.right{
+    padding-left: 90px;
+}
+.sidebody1{
+    padding-top: 20px;
+}
+.imm5{
+    width:150%;
+}
+.p24{
+    padding-top:20px;
+    font-size: large;
+}
+.h22{
+color: orange;
+}
+.logos{
+    display: flex;
+    flex-direction: row;
+    flex-wrap: nowrap;
+    padding-top: 80px;
+    padding-left: 10px;
+    gap:2%;
+    height:20%;
+}
+.imm6{
+    min-width:2%;
+    float:right;
+}
+.buttons{
+    width:5%;
+    height:20%;
+    margin-left: 10%;
+    padding-left:20px;
+}
+.buttons0{
+    width:5%;
+    height:10%;
+
+}
+.center{
+    display:flex;
+    flex-direction: row;
+    gap:20%;
+    margin-left: 30%;
+    margin-top: 2%;
+}
+.body2{
+    display:flex;
+    flex-direction: row;
+    gap:10%;
+    margin:5% ;
+}
+.videos{
+    display: flex;
+    flex-wrap: nowrap;
+    flex-direction: row;
+    justify-content: center;
+}
+.hero-image2{
+    background-image: linear-gradient(rgba(0, 0, 0, 0.5), rgba(5, 5, 5, 0.5)), url("images/moving1.jpg");
+    height: 200px;
+    width:20%;
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover;
+    position: relative;
+    color: aliceblue;
+    padding: 1%;
+    margin: 3%;
+    border-radius: 30px;
+}
+.hero-nested{
+   width:40%;
+   border-radius: 800px;
+   margin-bottom: 100%;
+   position: center; 
+}
+.arrage{
+    display:flex;
+    gap:10%;
+    flex-wrap: nowrap;
+    flex-direction: row;
+}
+.image9{
+    width:3%;
+    border-radius: 30%;
+}
+.hero-image3{
+    background-image: linear-gradient(rgba(0, 0, 0, 0.5), rgba(5, 5, 5, 0.5)), url("images/sittingroom.jpeg");
+    height: 100%;
+    width:800px;
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover;
+    position: relative;
+    color: aliceblue;
+    padding: 10%;
+    margin-top: 5%;
+    margin-bottom: 10%;
+    border-radius: 30px;
+}
+.heroe{
+    display:flex;
+    flex-wrap: nowrap;
+    justify-content: center;
+    margin-left: 2%;
+}
+.sentence{
+    margin-top: 10%;
+}
+.sentence2{
+    display:flex;
+    margin-top: 15%;
+    gap:5%;
+    margin-left: 30%;;
+}
+.hero-image4{
+    background-image: linear-gradient(rgba(0, 0, 0, 0.5), rgba(5, 5, 5, 0.5)), url("images/moving2.jpeg");
+    min-height: 800%;
+    width:300%;
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover;
+    position: relative;
+    color: aliceblue;
+    padding: 1%;
+    margin-top: 1%;
+    margin-right: 100px;
+    border-radius: 30px;
+}
+.nested-image{
+    width:40%;
+    margin-left: 30%;
+    margin-top: 10%;
+}
+.book{
+    display: flex;
+    width:300%;
+    min-height: 800%;
+    margin-right: 20px;
+
+}
+.h24{
+    font-size: ;
+}
+.quote{
+    width:7%
+}
+.lady{
+    width: 7%;
+}
+.say{
+    display:flex;
+    margin-top: 12%;
+    margin:10% ;
+}
+.testimonies{
+    margin-left:40%;
+    margin-top: 5%;
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
